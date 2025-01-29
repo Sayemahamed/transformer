@@ -1,0 +1,8 @@
+datasets
+torch
+black
+torchtext
+tokenizers
+torchmetrics
+tensorboard
+wandb
