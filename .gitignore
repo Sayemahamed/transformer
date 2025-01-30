@@ -1,0 +1,5 @@
+.venv
+pre_made_translate.py
+pre_made_train.py
+pre_made_model.py
+pre_made_dataset.py
